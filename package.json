@@ -6,10 +6,21 @@
   "dependencies": {
     "punycode2": "~1.0.0"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "devDependencies": {
+    "simple-sha1": "~2.1.0",
+    "tape": "~4.8.0"
   },
-  "keywords": ['emoji', 'hex', 'string', 'encode', 'decode'],
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "emoji",
+    "emoticon",
+    "hex",
+    "string",
+    "encode",
+    "decode"
+  ],
   "author": "Michael Rhodes",
   "license": "MIT"
 }
