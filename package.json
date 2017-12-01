@@ -1,0 +1,15 @@
+{
+  "name": "hexoticon",
+  "version": "0.0.0",
+  "description": "deterministic emoji hex strings",
+  "main": "index.js",
+  "dependencies": {
+    "punycode2": "~1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['emoji', 'hex', 'string', 'encode', 'decode'],
+  "author": "Michael Rhodes",
+  "license": "MIT"
+}
