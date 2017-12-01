@@ -1,5 +1,5 @@
 {
-  "name": "hexoticon",
+  "name": "hexoji",
   "version": "0.0.0",
   "description": "deterministic emoji hex strings",
   "main": "index.js",
